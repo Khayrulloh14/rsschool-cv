@@ -1,0 +1,25 @@
+.div1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.li1{
+    margin: 15px;
+}
+.ul1{
+    margin-bottom: 30px;
+}
+.txt1{
+    margin-top: 20px;
+}
+.code{
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    background-color: rgb(233, 233, 233);
+    padding: 5px;
+    border-radius: 7px;
+}
+.c1{
+    margin-left: 20px;
+}
