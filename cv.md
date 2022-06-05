@@ -31,7 +31,7 @@ alert( result );
 - __Scholl:__ Ilmhona, Istaravshan town
 - __Courses:__
     - [Front-End](https://ilmhona.org/course-web)
-    - [React.js](https://ilmhona.org/proskills-frontend)e
+    - [React.js](https://ilmhona.org/proskills-frontend)
     
 ## English
 I learn English only in school
