@@ -34,7 +34,7 @@ alert( result );
     - [React.js](https://ilmhona.org/proskills-frontend)
     
 ## English
-I learn English only in school
+I learn English only in school.
 
 
 
