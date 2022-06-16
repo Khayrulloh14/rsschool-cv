@@ -73,7 +73,7 @@
 .information_2{
     font-weight: bold;
     font-size: 20px;
-    margin: 10px;
+    margin: 0px;
 }
 .footer_div{
     display: flex;
@@ -95,4 +95,31 @@
     font-weight: bold;
     margin-top: 40px;
     font-size: 25px;
+}
+.cv_link{
+    color: rgb(121, 206, 255);
+    font-size: 17px;
+    text-decoration: none;
+}
+.cv{
+    font-size: 17px;
+}
+.code{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.let{
+    color: rgb(0, 0, 150);
+}
+.name_let{
+    color: rgb(87, 104, 255);
+}
+.number{
+    color: rgb(23, 189, 255);
+}
+.names{
+    color: rgb(226, 226, 71);
+}
+.elements{
+    color: orange;
 }
